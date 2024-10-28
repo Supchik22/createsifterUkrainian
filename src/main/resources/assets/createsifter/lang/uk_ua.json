@@ -1,0 +1,11 @@
+{
+  "block.createsifter.sifter": "Просіювач",
+  "create.recipe.sifting": "Просіювання",
+  "createsifter.recipe.sifting": "Просіювання",
+  "item.createsifter.andesite_mesh": "Андезитова сітка",
+  "item.createsifter.brass_mesh": "Латунна сітка",
+  "item.createsifter.custom_mesh": "Власна сітка",
+  "item.createsifter.string_mesh": "Ниткова сітка",
+  "item.createsifter.zinc_mesh": "Цинкова сітка",
+  "itemGroup.createsifter:main": "Create Просіювач"
+}
